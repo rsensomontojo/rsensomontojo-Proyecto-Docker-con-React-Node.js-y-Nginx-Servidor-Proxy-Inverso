@@ -11,10 +11,9 @@ Este proyecto implementa una arquitectura containerizada usando Docker, que incl
 
 ## Requisitos Previos
 
-- Servidor Ubuntu (o distribución similar)
+- Servidor Ubuntu (o similar)
 - Docker y Docker Compose instalados
 - Acceso SSH al servidor
-- Conocimientos básicos de Docker y containerización
 
 ## Estructura del Proyecto
 
@@ -143,6 +142,4 @@ Si encuentras problemas:
 4. Sube los cambios a la rama
 5. Crea un Pull Request
 
-## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
